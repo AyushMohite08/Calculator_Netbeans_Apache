@@ -54,8 +54,11 @@ The application follows a standard order of operations:
    ```bash
    git clone https://github.com/AyushMohite08/Calculator_Netbeans_Apache.git
 
-## License
-This project is open-source and available under the MIT License.
+## Authors
+- [AyushMohite08](https://github.com/AyushMohite08)
 
-## Contact
-For any questions or feedback, please contact Ayush Mohite (mailto:ayushmohite0811@gmail.com).
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Feedback
+For any questions or feedback, please contact [Ayush Mohite](mailto:ayushmohite0811@gmail.com) or reach out to me at ayushmohite0811@gmail.com
