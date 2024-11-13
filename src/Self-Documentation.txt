@@ -1,0 +1,31 @@
+Made in Apache NetBeans. No database required. No data structures.
+
+(o) Priority of Operands:
+	* and /   --> highest
+	% 	  --> mid
+	+ and -   -->lowest
+
+(o) Keyboard Keys:
+	0-9  		--> numbers
+	+-*/%		--> operands
+	.    		--> decimal(point)
+	Backspace	--> Backspace (<--)
+	Enter		--> Ans (=)
+	Esc  		--> Clc (clear)
+Note:- Turning the Calculator ON/OFF is done by the button present on the screen only.
+
+(o) Advancements:
+
+--> Work with decimal system (points)
+--> Good looking simplistic design and programming.
+--> Calculates modulus of numbers ( % )
+--> Has all the basic features like back(<--), clear(Clc), Ans(=). Also the ON/OFF button.
+--> Can also be accessed by Keyboard Keys.
+
+
+(o) Difficulties:
+
+--> Display is small to display huge numbers (hint: setting up max limit)
+--> Cannot scroll back and forth to check the numbers being entered are correct or not (if one entering mistake user has keep on going back till the error)
+--> The mathematical engine ("Nashorn engine is planned to be removed from a future JDK release") 
+--> History is not maintained.
